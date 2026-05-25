@@ -1,0 +1,7 @@
+order_id,user_id,product,price
+101,1,Laptop,1200.50
+102,1,Mouse,25.99
+103,2,Keyboard,75.00
+104,3,Monitor,300.00
+105,4,Headphones,150.25
+106,2,USB Cable,10.00
