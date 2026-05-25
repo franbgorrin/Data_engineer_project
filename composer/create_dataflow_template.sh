@@ -1,0 +1,1 @@
+python3 wordcount_dag.py --runner DataflowRunner --project Data-engineer-proyect-02 --region us-central1 --staging_location gs://bucket_shakespeare_pi/staging --temp_location gs://bucket_shakespeare_pi/temp --template_location gs://bucket_shakespeare_pi/templates/wordcount_template
